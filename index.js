@@ -1,4 +1,10 @@
 // Declare and initialize the variables for exercise 1 here:
+let engineIndicatorLight = "red blinking";
+let spaceSuitsOn = true;
+let shuttleCabinReady = true;
+let crewStatus = spaceSuitsOn && shuttleCabinReady;
+let computerSpaceCode = Number(200);
+let shuttleSpeed = Number(15000);
 
 
 
